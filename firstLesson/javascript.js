@@ -21,11 +21,20 @@
 // console.log(ferq)
 // console.log(bolme)
 // console.log(qaliq)
-let a = 3
-if(a%2==0)
-{
-console.log("cutdur")
-}
-else{
- console.log("tekdir")   
-}
+// let a = 7988654616
+// if(a%2==0)
+// {
+// console.log("cutdur")
+// }
+// else{
+//  console.log("tekdir")   
+// }
+// let first = 27;
+// let second = 18;
+// console.log(first | second)
+
+let n = 15;
+
+n=n>>3;
+
+console.log(n)
